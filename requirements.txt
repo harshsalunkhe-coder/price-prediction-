@@ -1,0 +1,30 @@
+# Core Data & Numerics
+pandas>=2.2.0
+numpy>=1.26.0
+scipy>=1.12.0
+scikit-learn>=1.4.0
+
+# Financial Data & Market Feeds
+yfinance>=0.2.38
+
+# Scraping & Alternative Data Ingestion
+apify-client>=1.8.0
+exa-py>=1.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+
+# Quantitative Visualization & PDF Generation
+matplotlib>=3.8.0
+reportlab>=4.1.0
+pillow>=10.2.0
+
+# Orchestration, CLI & Environment
+pyyaml>=6.0.1
+python-dotenv>=1.0.1
+rich>=13.7.0
+pydantic>=2.6.0
+google-genai>=1.0.0
+tqdm>=4.66.0
+
+# Testing
+pytest>=8.0.0
